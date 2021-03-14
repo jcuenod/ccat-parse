@@ -1,4 +1,4 @@
-# lxxparse
+# ccat-parse
 
 Takes CCAT morph codes and turns them into something meaningful. (cf. https://github.com/jcuenod/lxxproject). Now available as an npm package: <https://www.npmjs.com/package/ccat-parse>
 
