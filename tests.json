@@ -1,0 +1,738 @@
+[{
+    "input": "P",
+    "expect": {
+        "part_of_speech": "prep"
+    }
+}, {
+    "input": "N3V GSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "3",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "N GSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "indeclinable proper",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "RA GSF",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "gen",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "N1A GSF",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "1",
+        "case": "gen",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "N1 DSF",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "1",
+        "case": "dat",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "VAI AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "RA NSM",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "N2 NSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "2",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "VH AAPNSM",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ptcp",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "X",
+    "expect": {
+        "part_of_speech": "part"
+    }
+}, {
+    "input": "N NSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "indeclinable proper",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "RA ASN",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "acc",
+        "number": "sg",
+        "gender": "neut"
+    }
+}, {
+    "input": "D",
+    "expect": {
+        "part_of_speech": "adv"
+    }
+}, {
+    "input": "VAI AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "RA APM",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "acc",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "N2 APM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "2",
+        "case": "acc",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "RD GSM",
+    "expect": {
+        "part_of_speech": "Demonstrative Pronoun",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "C",
+    "expect": {
+        "part_of_speech": "conj"
+    }
+}, {
+    "input": "RA APF",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "acc",
+        "number": "pl",
+        "gender": "fem"
+    }
+}, {
+    "input": "N3 APF",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "3",
+        "case": "acc",
+        "number": "pl",
+        "gender": "fem"
+    }
+}, {
+    "input": "RD GSM",
+    "expect": {
+        "part_of_speech": "Demonstrative Pronoun",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "C",
+    "expect": {
+        "part_of_speech": "conj"
+    }
+}, {
+    "input": "VA AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "RD APM",
+    "expect": {
+        "part_of_speech": "Demonstrative Pronoun",
+        "case": "acc",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "C",
+    "expect": {
+        "part_of_speech": "conj"
+    }
+}, {
+    "input": "VD APPNSM",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "pass",
+        "mood": "ptcp",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "N NSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "indeclinable proper",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "VBI AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "P",
+    "expect": {
+        "part_of_speech": "prep"
+    }
+}, {
+    "input": "RA ASM",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "acc",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "N2 ASM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "2",
+        "case": "acc",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "RD GSM",
+    "expect": {
+        "part_of_speech": "Demonstrative Pronoun",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "C",
+    "expect": {
+        "part_of_speech": "conj"
+    }
+}, {
+    "input": "N NSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "indeclinable proper",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "VBI AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "P",
+    "expect": {
+        "part_of_speech": "prep"
+    }
+}, {
+    "input": "RA ASF",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "acc",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "RD GSM",
+    "expect": {
+        "part_of_speech": "Demonstrative Pronoun",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "N2 ASF",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "2",
+        "case": "acc",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "C",
+    "expect": {
+        "part_of_speech": "conj"
+    }
+}, {
+    "input": "VA AAPNSM",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ptcp",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "VBI AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "N1 ASF",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "1",
+        "case": "acc",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "N2 GSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "2",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "VX XAPASF",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "perf",
+        "voice": "act",
+        "mood": "ptcp",
+        "case": "acc",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "C",
+    "expect": {
+        "part_of_speech": "conj"
+    }
+}, {
+    "input": "VAI AAI3P",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "pl"
+    }
+}, {
+    "input": "RD DSM",
+    "expect": {
+        "part_of_speech": "Demonstrative Pronoun",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "RA NPM",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "nom",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "N2 NPM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "2",
+        "case": "nom",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "RA GSM",
+    "expect": {
+        "part_of_speech": "Article",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "N2 GSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "2",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "VBI AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "X",
+    "expect": {
+        "part_of_speech": "part"
+    }
+}, {
+    "input": "N NSM",
+    "expect": {
+        "part_of_speech": "noun",
+        "declension": "indeclinable proper",
+        "case": "nom",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "D",
+    "expect": {
+        "part_of_speech": "adv"
+    }
+}, {
+    "input": "VBI AAI3S",
+    "expect": {
+        "part_of_speech": "verb",
+        "tense": "aor",
+        "voice": "act",
+        "mood": "ind",
+        "person": "3",
+        "number": "sg"
+    }
+}, {
+    "input": "RD APM",
+    "expect": {
+        "part_of_speech": "Demonstrative Pronoun",
+        "case": "acc",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1C DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A3 NPM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "nom",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1A ASF",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "A1 ASM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 ASM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1A APN",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "pl",
+        "gender": "neut"
+    }
+}, {
+    "input": "A1 ASM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1A GSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1B GSN",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "gen",
+        "number": "sg",
+        "gender": "neut"
+    }
+}, {
+    "input": "A1 ASM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1B GSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1A GSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "gen",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1 DSM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "sg",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1A APN",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "pl",
+        "gender": "neut"
+    }
+}, {
+    "input": "A3H APN",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "pl",
+        "gender": "neut"
+    }
+}, {
+    "input": "A1A GSF",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "gen",
+        "number": "sg",
+        "gender": "fem"
+    }
+}, {
+    "input": "A1A NSFC",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "nom",
+        "number": "sg",
+        "gender": "fem",
+        "degree": "comp"
+    }
+}, {
+    "input": "A1 APN",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "pl",
+        "gender": "neut"
+    }
+}, {
+    "input": "A1B NPM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "nom",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "A3 NPM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "nom",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "A1B NPM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "nom",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "A3 NPM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "nom",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "A3 APM",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "pl",
+        "gender": "masc"
+    }
+}, {
+    "input": "A3 DPN",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "dat",
+        "number": "pl",
+        "gender": "neut"
+    }
+}, {
+    "input": "A1B APN",
+    "expect": {
+        "part_of_speech": "adj",
+        "case": "acc",
+        "number": "pl",
+        "gender": "neut"
+    }
+}]

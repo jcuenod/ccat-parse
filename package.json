@@ -1,0 +1,30 @@
+{
+  "name": "ccat-parse",
+  "version": "0.0.1",
+  "description": "Parse CCAT morph codes",
+  "main": "ccat-parse.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcuenod/ccat-parse.git"
+  },
+  "keywords": [
+    "LXX",
+    "morphology",
+    "parsing",
+    "Greek",
+    "CCAT",
+    "old-testament"
+  ],
+  "author": "James Cuénod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcuenod/ccat-parse/issues"
+  },
+  "homepage": "https://github.com/jcuenod/ccat-parse#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

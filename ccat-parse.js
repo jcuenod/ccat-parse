@@ -22,6 +22,7 @@ const caseNumberGender = ({c,n,g}) => {
 	}
 }
 
+// Case/Number/Gender
 const cngObjectFromString = (cng_string) => {
 	return {
 		c: cng_string[0],
@@ -29,6 +30,7 @@ const cngObjectFromString = (cng_string) => {
 		g: cng_string[2]
 	}
 }
+//Tense/Voice/Mood
 const tvmObjectFromString = (tvmx_string) => {
 	return {
 		t: tvmx_string[0],
@@ -36,6 +38,7 @@ const tvmObjectFromString = (tvmx_string) => {
 		m: tvmx_string[2]
 	}
 }
+//Person/Number
 const pnObjectFromString = (xxxpn_string) => {
 	return {
 		p: xxxpn_string[3],
@@ -44,7 +47,7 @@ const pnObjectFromString = (xxxpn_string) => {
 }
 
 
-const ParseCodeToObject = (code_string) => {
+const ccatParse = (code_string) => {
 	const part_of_speech = code_string.indexOf(" ") > -1 ? code_string.substr(0, code_string.indexOf(" ")) : code_string
 	const parse_code = code_string.substr(code_string.indexOf(" ") + 1)
 
@@ -106,4 +109,6 @@ const ParseCodeToObject = (code_string) => {
 	return return_object
 }
 
-module.exports.ParseCodeToObject = ParseCodeToObject
+module.exports = {
+	ccatParse
+}
